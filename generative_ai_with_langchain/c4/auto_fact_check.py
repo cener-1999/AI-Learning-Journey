@@ -3,7 +3,6 @@ LangChain已经弃用了 LLMCheckerChain.
 
 以下贴出来自https://github.com/jagilley/fact-checker/tree/main的实现
 
-TODO 了解langgraph_self_rag https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_self_rag/
 """
 
 from langchain_community.llms import OpenAI

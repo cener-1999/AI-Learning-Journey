@@ -8,3 +8,9 @@
 1. **D2L** 线性代数部分
 2. **3Blue1Brown** 线性代数的本质 P1 ~ P10
 3. **G** 4.1 auto-fact-check
+
+#### 2024.9.1
+1. **D2L** 微积分
+2. **3Blue1Brown** 深度学习 p1~p3
+3. **G** c4
+4. Self-Rag
