@@ -1,3 +1,7 @@
+> - G: *Generative Ai With Langchain*
+> - D2l: *DIVE INTO DEEP LEARNING*
+> - 3Blue1Brown: YouTube频道，通过动画图形直观地解释复杂的数学概念
+
 #### 2024.8.28
 
 1. **D2L** C1(ML, DL概论), C2.1 C2.2 （Pytorch数据准备 + 数据预处理）
@@ -14,3 +18,7 @@
 2. **3Blue1Brown** 深度学习 p1~p3
 3. **G** c4
 4. Self-Rag
+
+#### 2024.9.2
+1. **3Blue1Brown** 多元微积分 p1 ~ p30
+2. **G** c5.1 ~ 5.3
