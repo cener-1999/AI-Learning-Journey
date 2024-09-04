@@ -1,6 +1,7 @@
 > - G: *Generative Ai With Langchain*
 > - D2l: *DIVE INTO DEEP LEARNING*
 > - 3Blue1Brown: YouTube频道，通过动画图形直观地解释复杂的数学概念
+> - DLFS: *Deep Learning From Scratch*
 
 #### 2024.8.28
 
@@ -25,3 +26,9 @@
 
 #### 2024.9.3
 1.  **G** c5结束
+
+#### 2024.9.4
+1.  **G** c6
+2. **3Blue1Brown** 多元微积分 p31 ~ p41
+3. Matplotlib的使用
+4. **DLFS**: c2 感知机
