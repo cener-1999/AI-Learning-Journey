@@ -4,6 +4,7 @@ LANGCHAIN_API_KEY = ''
 HUGGINGFACEHUB_API_TOKEN= ''
 ZEP_API_URL = ''
 ZEP_API_KEY = ''
+WOLFRAM_ALPHA_APPID = ''
 
 from local_settings import *
 
