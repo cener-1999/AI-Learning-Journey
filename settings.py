@@ -1,3 +1,5 @@
+import os
+
 OPENAI_API_KEY = ''
 SERPAPI_API_KEY = ''
 LANGCHAIN_API_KEY = ''
