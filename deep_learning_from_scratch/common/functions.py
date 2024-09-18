@@ -33,6 +33,11 @@ def mean_squared_error(y, t):
 
 
 def cross_entropy_error(y, t):
+    """
+    :param y: 训练得到的结果
+    :param t: 测试数据
+    :return:
+    """
     if y.ndim == 1:
         t = t.reshape(1, t.size)
         y = y.reshape(1, y.size)

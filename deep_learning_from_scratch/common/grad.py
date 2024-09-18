@@ -1,8 +1,15 @@
 # coding: utf-8
 import numpy as np
+from typing import Callable
 
 
-def numerical_gradient(f, x):
+def numerical_gradient(f: Callable, x: np.ndarray):
+    """
+    基于数值微分计算参数的梯度
+    :param f: function
+    :param x: 参数
+    :return:
+    """
     h = 1e-4  # 0.0001
     grad = np.zeros_like(x)
 
