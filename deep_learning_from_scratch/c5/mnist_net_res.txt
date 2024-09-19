@@ -1,0 +1,17 @@
+epoch 0: train_acc: 0.0993 | test_acc: 0.1032
+epoch 1: train_acc: 0.9012 | test_acc: 0.9013
+epoch 2: train_acc: 0.9218 | test_acc: 0.9266
+epoch 3: train_acc: 0.9345 | test_acc: 0.9329
+epoch 4: train_acc: 0.9419 | test_acc: 0.9426
+epoch 5: train_acc: 0.9482 | test_acc: 0.9476
+epoch 6: train_acc: 0.9556 | test_acc: 0.955
+epoch 7: train_acc: 0.96 | test_acc: 0.9578
+epoch 8: train_acc: 0.9645 | test_acc: 0.9602
+epoch 9: train_acc: 0.9652 | test_acc: 0.9625
+epoch 10: train_acc: 0.9679 | test_acc: 0.9621
+epoch 11: train_acc: 0.9704 | test_acc: 0.9642
+epoch 12: train_acc: 0.9707 | test_acc: 0.9637
+epoch 13: train_acc: 0.9722 | test_acc: 0.966
+epoch 14: train_acc: 0.974 | test_acc: 0.9667
+epoch 15: train_acc: 0.9776 | test_acc: 0.9706
+epoch 16: train_acc: 0.9787 | test_acc: 0.9686
